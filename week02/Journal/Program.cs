@@ -1,12 +1,12 @@
 
 
 /*
-  Journal Program - Program.cs
 
-  Notes on exceeding requirements:
-  - Implemented saving/loading that preserves multi-line responses by escaping newlines
-    on save and restoring them on load. This keeps entries with line breaks but still
-    saves each entry as a single file line (simplifies parsing).*/
+Author: Daniel Rivard
+Date: 09/13/2025
+Class: CSE 210
+Description: Journal program that prompts the user with random questions and records their responses.
+ I've added a save and load system to save journal entries to a file*/
 
 
 
